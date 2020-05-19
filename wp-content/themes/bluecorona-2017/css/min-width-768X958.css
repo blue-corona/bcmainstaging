@@ -1,0 +1,97 @@
+.content-center{max-width:724px }
+#sub-container .content-center{max-width:724px }
+.columns-4 .sub-inner-content{margin:0;}
+#companies-logo .hr-line::before{display:none }
+#services-blocks .service-block{width:45% }
+#home-content{text-align:center }
+.blueocorona-banner-1, .blueocorona-banner-2, .blueocorona-banner-3{top:4%;}
+#home-banner .bx-controls{top:35%;}
+#about-us, #services-head{font-size:70px }
+#about-us.bx-wrapper{font-size:50px }
+#about-us .heading{margin:0 0 10px }
+#about-us .content-center{max-width:678px }
+#about-us a.bx-next{right:5% }
+#about-us a.bx-prev{left:5% }
+#free-stuff{font-size:70px }
+#free-stuff .heading{margin:0 0 10px }
+#free-stuff-btm{font-size:100px;}
+#free-stuff-btm .ui-tabs-nav{margin:-280px 0 0;}
+#free-tabs .free-tab-head{font-size:23.18%;}
+#more-about-us{font-size:70px }
+#more-about-us .heading{margin:0 0 10px }
+#more-about-us .sub-heading h1{line-height:70px;}
+#more-about-us .heading.hr-line::before{left:104%;}
+#case-studies .heading{margin:0 0 10px }
+#benefit-statmnts ol.custom-num>li::before{width:45px;line-height:45px;border-radius:40px }
+#companies-logo-blocks{max-width:724px;width:724px;}
+#logo-row-area{background:#fff;float:left;padding:7% 4%;width:92% }
+#logo-row-area ul li{height:156px;width:135px;}
+.logo-border{height:93%;}
+#home-banner{font-size:50px;position:relative;}
+#home-content{font-size:84px }
+.overlay .overlya-arrow::after{height:35px;width:35px }
+#case-studies{font-size:50px;}
+.benefit-single{font-size:100px!important }
+#footer .footer-social{margin:0 0 0 15px }
+#footer .footer-arrow{display:none;}
+#subform-group{padding:1% 18% 2% 3%;width:50%;}
+.sub-title-container .content-center span{margin:3.6% 0 0;}
+#sidebar-columns .hr-line::before{width:50px;}
+#sidebar-columns p{margin:0 0 10px;}
+.team-img{margin:-88px 9px 16px 11px;}
+.team-area{margin:0 0 8px;}
+.columns-feture-img img{width:100%;}
+.portfolio-overlay-inner{padding:36px 10px;}
+.portfolio-dec{font-size:16.86%;}
+.clients_name{font-size:20.18%;}
+#other-work .portfolio-columns .columns-feture-img{height:128px;}
+#other-work .portfolio-overlay-inner{padding:8px 15px;}
+#other-work .portfolio-dec{font-family:"SourceSansPro-Regular";font-size:16.86%;margin:0 0 10px;}
+.bc-services{width:100%;}
+#footer .footer-links{margin:0 0 0 18px;}
+#footer .footer-social{margin:0;width:auto;}
+.study-form-area{width:502px;}
+.border-top{margin:30px 0;}
+#case-study-form .gform_footer{margin:-78px auto 0;}
+#case-study-form #field_6_4 .gchoice_4_1 label{font-size:15px;margin:-29px 0 0 26px;}
+#sidebar-columns .post-columns .hr-line::before{width:30px;}
+.single-content-form_wrapper.gform_wrapper form li p{font-size:15px;}
+.single-content-form_wrapper.gform_wrapper form li.free-ppc-field{width:72%;}
+.columns-2{width:30.3077%;}
+.columns-block .columns-2{margin:0 0 20px 0;}
+.single-content-form_wrapper.gform_wrapper li .free-ppc-text{background:rgba(0, 0, 0, 0) url("../images/free-seo-graphic-new.png") no-repeat scroll center top;min-height:100px;padding:145px 0 0;text-align:center;}
+#gform_wrapper_23.single-content-form_wrapper.gform_wrapper li .free-ppc-text{background:url("../images/free-ppc-graphic-new.png") no-repeat left top;}
+#gform_wrapper_19.single-content-form_wrapper.gform_wrapper li .free-ppc-text{background:url("../images/free-social-media-graphic-new.png") no-repeat left top;}
+#gform_wrapper_25.single-content-form_wrapper.gform_wrapper li .free-ppc-text{background:url("../images/free-competitor--graphic-new.png") no-repeat left top;}
+#gform_wrapper_51.single-content-form_wrapper.gform_wrapper li .free-ppc-text{background:url("../images/free-competitor--graphic-new.png") no-repeat left top;}
+#gform_wrapper_42.single-content-form_wrapper.gform_wrapper li .free-ppc-text{background:url("../images/analytics-graphic-new.png") no-repeat left top;}
+.view-content .services-wrapper .service-txt{padding:0 0 0 15px;}
+#field_44_1 .gfield_description.validation_message{top:0;}
+.overlay.blueocorona-banner-1 span{font-size:35%;padding:11px 20px;margin:0 0 10px;}
+.overlay.blueocorona-banner-1 .overlya-arrow{padding:8px 27px;}
+.blueocorona-banner-1{left:2%;}
+#header-ribbon img{width:100%;margin-left:0px;}
+#bc-offices aside{display:inline-block;width:50%;vertical-align:top;}
+.get-btn.purple-bg.case-study-btn{margin:3% 0 40px}
+#sub-container .sub-inner .alignright.size-full.wp-image-11343{width:40%;}
+#header-ribbon img{width:100%;margin-left:0px;}
+.page-template-template-competitor #sub-container .content-center{max-width:724px;}
+.gac-growth-chart{top:-9px;}
+.case-block-innner iframe{height:237px;}
+/*****pc**/
+.logo-sec li{height:130px;}
+.logo-sec img{width:72%;}
+.serve-left{width:100%;text-align:center;}
+.serve-rght{width:100%;}
+#sub-container .sub-inner .superior-service .serve-left .alignleft{float:none;margin:0 10px 28px 0;}
+.columns-list{display:inline-block;margin-right:0;width:29%;}
+/*****pc end**/
+.view-content .services-wrapper .views-field-field-icon-fid .field-content{width:100%;}
+div#team-conatiner .info-button{font-size:15px;}
+
+#case-study-form .study-form-area { width: 100%;margin:0;}
+#case-study-form .relax-field-form .gform_footer {
+    margin: -82px auto 0;
+}
+
+////

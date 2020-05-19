@@ -1,0 +1,26 @@
+
+#header-nav-outer .mobile-expand-nav::after {
+    content: "";
+    box-shadow: 0 4px 5px -2px rgba(0, 0, 0, 0.38);
+    position: absolute;
+    top: -20px;
+    width: 100%;
+    height: 20px;
+    display: block;
+}
+.portfolio-columns .columns-feture-img{height:272px;}
+.overlay-banner{padding:13px 0;}
+#team-conatiner .info-button{padding:18px 40px;}
+#sub-container .sub-inner .people-list img{vertical-align:middle;display:inline-block;}
+.serve-left{width:38%;}
+.vistage-subpage .sub-title-container .testimonials-new-content{display:none;}
+.vistage-right{width:370px;}
+.vistage-subpage .sub-title-container img{visibility:hidden;}
+.vistage-subpage .sub-title-container{background:url(../images/banner-vistage.jpg) no-repeat;background-size:cover;height:180px;}
+.chief-outsiders-logo{margin-top:0px;}
+.thanku-bottom-left{max-width:570px;}
+
+.lit-blue-bg.pop-btn span.mobile-ipad{ display:none;}
+.study-form-area { float: left;    width: 710px;}	
+
+

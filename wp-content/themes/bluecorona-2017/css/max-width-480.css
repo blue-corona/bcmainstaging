@@ -1,0 +1,57 @@
+.columns-list{display:block;width:100%;}
+.logo-sec li{border-right:0px;border-bottom:1px solid #bcbdc0;display:block;}
+.logo-sec img{width:40%;}
+.logo-sec li{height:auto;margin:0;padding:18px;}
+.logo-sec li:last-child{border-bottom:0 none;border-right:0 none;}
+.logo .color{height:auto;width:100%;}
+#header-nav .ubermenu-skin-black-white-2.ubermenu-responsive-toggle{top:-45px;}
+#header .logo{height:40px}
+#home-content p{text-align:center}
+#services-blocks .service-block:last-child{padding:8% 2.5% 18%}
+.blueocorona-banner-1, .blueocorona-banner-2, .blueocorona-banner-3{top:8%;}
+#logo-row-area ul li{height:63px;}
+#logo-row-area .logo-row:first-child .logo-row-title{top:-16px;}
+#header-ribbon img{width:100%;margin-left:0px;}
+.rt-lt-coln{float:left;margin:0;padding:12px 8px 8px 0;width:auto;}
+.top-left-coln{border:none;}
+.top-left-coln{width:100%;font-size:20px;}
+.top-right-coln{width:100%;}
+.holiday-banner{font-size:15px;}
+.nav-previous{float:none;text-align:center;margin:0 auto;}
+.nav-next{float:none;margin:0 auto;text-align:center;}
+.pop-form{top:28%;}
+.chair-left-col{width:100%;}
+.heading-carrer:after{display:none;}
+.resources-content li{margin:0 0 40px;display:block;width:100%;}
+.featured-blogs ul li{width:100%;}
+.blog-title:after{display:none}
+#team-conatiner li{width:100%;}
+.pres_colm{width:100%;margin:0px auto 25px 0px}
+.single-content-form2 .gform_wrapper form .gform_footer{margin:0;}
+.seo-service-topic-images img{padding:10px 20px;}
+.service-local-images .img-col{margin:0 0 20px;width:100%;}
+.content-center.seo-tab-sec h2.resp-accordion{font-size:13px;}
+.seo-service-testimonials .slick-dots{bottom:-80px;}
+#offices .content-center{width:100%;}
+.market-definition ul li .def-heading{width:55px;}
+.market-definition ul li .marketing-heading{width:65%;}
+.vistage-subpage .sub-title-container img{visibility:hidden;}
+.vistage-subpage .sub-title-container{background-size:cover;height:100px;}
+#offices .heading span{border:none;}
+#text-2, #text-5{display:block;}
+#bc-offices{border-bottom:none;padding-bottom:0;margin:0;}
+::-webkit-input-placeholder{font-size:14px;}
+::-moz-placeholder{font-size:14px;}
+:-ms-input-placeholder{font-size:14px;}
+div#team-conatiner li{width:100%;}
+
+
+.industries-sec ul {
+    -webkit-column-count: 1 !important;
+    -moz-column-count: 1 !important;
+    column-count: 1 !important;
+    max-height: initial;
+    text-align: center;
+}
+
+br.d-mobile {display: block !important;}
